@@ -150,12 +150,3 @@ Configure no Postman em **Headers**:
     │── middleware.py
     │── sistema_legado.py
     │── README.md
-
-------------------------------------------------------------------------
-
-## 9. Próximos Passos
-
--   Docker
--   JWT
--   Diagramas C4
--   Documentação Swagger
